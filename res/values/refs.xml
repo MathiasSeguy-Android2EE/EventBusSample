@@ -1,0 +1,7 @@
+<resources>
+
+    <item name="activity_main" type="layout">@layout/main_activity_one_pane_leg</item>
+
+    <bool name="twoPane">false</bool>
+
+</resources>

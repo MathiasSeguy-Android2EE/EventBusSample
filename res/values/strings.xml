@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">EventBusSample</string>
+    <string name="hello">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">EventBusSample</string>
+    <string name="default_eventbus_config_error_title">Default ErrorDialog Title</string>
+    <string name="default_eventbus_config_error_message">Default ErrorDialog Message</string>
+    <string name="ioexception_eventbus_config_error_message">IOException ErrorDialog Message</string>
+
+</resources>
